@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <Version>0.1.0</Version>
+    <Authors>N7-Labs; AlexTroshkin</Authors>
+    <Company>N7-Labs</Company>
+    <RepositoryUrl>https://github.com/n7-labs/N7.Either</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageTags>Either</PackageTags>
+    <PackageId>N7.Either</PackageId>
+  </PropertyGroup>
+
+</Project>
